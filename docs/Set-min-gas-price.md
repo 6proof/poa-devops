@@ -4,7 +4,7 @@
 
 0. this guide assumes that you're running this playbook from the same machine you used to make initial deployment of your node. So that you already have `python` and `ansible` installed, and you have the correct ssh keypair to root-access the node.
 
-1. clone this repository if you haven't done so before
+1.  From your home directory (for example /home/ubuntu or ~ubuntu) clone this repository if you haven't done so before
 ```
 git clone https://github.com/poanetwork/poa-devops.git
 cd poa-devops
